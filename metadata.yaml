@@ -1,5 +1,5 @@
 _repo: Janice-Meredith-A-Story-of-the-American-Revolution_5719
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: 'Janice Meredith: A Story of the American Revolution'
 url: http://www.gutenberg.org/ebooks/5719
